@@ -17,7 +17,7 @@ This project implements a simple blockchain with Proof-of-Work (PoW) and transac
 1. Clone the repository:
     ```bash
     git clone https://github.com/zaid50015/Implement_Block_chain.git
-    cd basic_block_chain
+    cd Implement_Block_chain
     ```
 
 2. Run the tests:
